@@ -1,7 +1,5 @@
 
-# README Template
-
-Your [design product spec](https://hackmd.io/s/H1wGpVUh7) (described in that link) will look like the following in your README:
+# Product Design Spec: Houstagram
 
 ## 1. User Stories (Required and Optional)
 

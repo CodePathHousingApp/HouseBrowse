@@ -52,3 +52,15 @@
     * Home 
 * Search Screen
     * None 
+
+## Wireframes
+<img src="http://g.recordit.co/b4kWAC70iE.gif" width=200>
+
+## Schema 
+### Models
+#### Listing, User, Likes
+<img src="http://g.recordit.co/5wMAdD5f2S.gif" width=200>
+
+### Networking
+<img src="http://g.recordit.co/ybd711mEL1.gif" width=200>
+

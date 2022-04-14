@@ -1,0 +1,6 @@
+framework module Pods_HouseBrowse_HouseBrowseUITests {
+  umbrella header "Pods-HouseBrowse-HouseBrowseUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

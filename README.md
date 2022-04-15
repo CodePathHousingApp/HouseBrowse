@@ -64,3 +64,13 @@
 ### Networking
 <img src="http://g.recordit.co/ybd711mEL1.gif" width=500>
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+- [x] User can log in
+
+<img src='http://g.recordit.co/HrOpvcEJPm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+
+

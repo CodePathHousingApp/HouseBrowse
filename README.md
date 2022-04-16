@@ -70,8 +70,9 @@ Here's a walkthrough of implemented user stories:
 - [x] User can log in
 - [x] User can log out
 - [x] User can sign up
+- [x] App can connect the API
 
-<img src='http://g.recordit.co/PYDck5bJxf.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/VyxIOVDzAn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 

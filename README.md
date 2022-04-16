@@ -68,8 +68,10 @@
 
 Here's a walkthrough of implemented user stories:
 - [x] User can log in
+- [x] User can log out
+- [x] User can sign up
 
-<img src='http://g.recordit.co/HrOpvcEJPm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/PYDck5bJxf.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 

@@ -19,6 +19,7 @@
 		658E9D7A2801063D00EBB445 /* HouseBrowseUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 658E9D792801063D00EBB445 /* HouseBrowseUITestsLaunchTests.swift */; };
 		71380968280A238300F80566 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71380967280A238300F80566 /* LoginViewController.swift */; };
 		7138096A280A239E00F80566 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71380969280A239E00F80566 /* FeedViewController.swift */; };
+		71540BB92813B17F009010C0 /* HouseCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71540BB82813B17F009010C0 /* HouseCell.swift */; };
 		717173B53AECAEB820453B2E /* Pods_HouseBrowseTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9CCEBFFF1BEBD8B76B9467A8 /* Pods_HouseBrowseTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -56,6 +57,7 @@
 		658E9D792801063D00EBB445 /* HouseBrowseUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseBrowseUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		71380967280A238300F80566 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		71380969280A239E00F80566 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		71540BB82813B17F009010C0 /* HouseCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseCell.swift; sourceTree = "<group>"; };
 		7330E779E52C5C0DFB0DBBAF /* Pods-HouseBrowse-HouseBrowseUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HouseBrowse-HouseBrowseUITests.release.xcconfig"; path = "Target Support Files/Pods-HouseBrowse-HouseBrowseUITests/Pods-HouseBrowse-HouseBrowseUITests.release.xcconfig"; sourceTree = "<group>"; };
 		8AFDF220AB56C32571244101 /* Pods-HouseBrowse.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HouseBrowse.debug.xcconfig"; path = "Target Support Files/Pods-HouseBrowse/Pods-HouseBrowse.debug.xcconfig"; sourceTree = "<group>"; };
 		9CCEBFFF1BEBD8B76B9467A8 /* Pods_HouseBrowseTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HouseBrowseTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -131,6 +133,7 @@
 				658E9D562801063A00EBB445 /* AppDelegate.swift */,
 				658E9D582801063A00EBB445 /* SceneDelegate.swift */,
 				658E9D5C2801063A00EBB445 /* Main.storyboard */,
+				71540BB82813B17F009010C0 /* HouseCell.swift */,
 				658E9D5F2801063C00EBB445 /* Assets.xcassets */,
 				658E9D612801063C00EBB445 /* LaunchScreen.storyboard */,
 				658E9D642801063C00EBB445 /* Info.plist */,
@@ -412,6 +415,7 @@
 				71380968280A238300F80566 /* LoginViewController.swift in Sources */,
 				658E9D572801063A00EBB445 /* AppDelegate.swift in Sources */,
 				7138096A280A239E00F80566 /* FeedViewController.swift in Sources */,
+				71540BB92813B17F009010C0 /* HouseCell.swift in Sources */,
 				658E9D592801063A00EBB445 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
